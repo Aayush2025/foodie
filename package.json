@@ -7,7 +7,7 @@
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "author": "Rohit Sharma",
+  "author": "Abhishek Kumar Pandey",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.23.7",
