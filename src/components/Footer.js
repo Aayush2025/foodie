@@ -13,11 +13,11 @@ export const Footer = () => {
 
 
       <a className=" text-red-600 hover:text-purple-800 text-2xl mx-1 "
-        href="https://www.linkedin.com/in/abhishekpandeybhu/"
+        href="https://www.linkedin.com/in/"
         target="_blank"
-        title="Abhishek Kumar Pandey Linkedin Profile"
+        title="Aayush Narnoli Linkedin Profile"
       >
-        <b>Abhishek Kumar Pandey</b></a>
+        <b>Aayush Narnoli</b></a>
       <div>with </div>
 
 
